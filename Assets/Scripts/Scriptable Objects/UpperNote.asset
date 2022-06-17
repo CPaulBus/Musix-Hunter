@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0032aa87f641f024da090bab7cfedd4d, type: 3}
+  m_Name: UpperNote
+  m_EditorClassIdentifier: 
+  _objectToPool: {fileID: 4384437211806654307, guid: d218cf935ab5b1c4390d6bd1f85015bd, type: 3}
+  _amountToPool: 8
